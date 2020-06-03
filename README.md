@@ -45,3 +45,6 @@ Output should look as follows:
  * Debugger is active!
  * Debugger PIN: 539-222-217
 ```
+
+Note that when running in debug mode the app launches twice and some logging is duplicated.
+Saving working code results in an auto-reload. Broken code might require a server restart. 
